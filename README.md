@@ -109,3 +109,7 @@ A practical example of applying system-level thinking (C-style discipline) to Py
 
 # License
 - MIT License
+
+---
+- Mustapha, System Level Developer,
+- Mashhad, Iran
