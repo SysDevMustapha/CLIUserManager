@@ -78,7 +78,7 @@ The program will automatically create user-data.json if it does not exist.
 
 ---
 
-Example User Object:
+# Example User Object:
 ```
     {
         "name": "Mustapha",
@@ -111,5 +111,6 @@ A practical example of applying system-level thinking (C-style discipline) to Py
 - MIT License
 
 ---
+# Author
 - Mustapha, System Level Developer,
 - Mashhad, Iran
